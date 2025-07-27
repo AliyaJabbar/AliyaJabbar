@@ -15,18 +15,11 @@
 - React.js  
 - SQL & Excel for data analysis
 
-💡 **Looking to Collaborate On:**  
-- Open-source projects  
-- Backend APIs  
-- Cloud-based applications  
-- Data visualization & analytics mini-projects
-
 📫 **Reach me at:**  
 - [LinkedIn](#)  
 - [GitHub](#)
 
-⚡ **Fun Fact:**  
-I enjoy drawing and creative writing! 🎨✍️
+
 
 ---
 
