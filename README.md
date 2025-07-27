@@ -4,26 +4,18 @@
 🎓 Postgraduate in Computer Science with a strong interest in solving real-world problems through technology.
 
 👀 **Interested in:**  
-- Backend Development  
-- Full-Stack Development  
 - Machine Learning  
 - Data Analysis
+- Backend Development  
+- Full-Stack Development  
 
-🌱 **Currently Learning:**  
-- Java for interviews  
-- Spring Boot  
-- React.js  
-- SQL & Excel for data analysis
+
 
 📫 **Reach me at:**  
 - [LinkedIn](#)  
 - [GitHub](#)
 
-
-
 ---
-
-## 💻 Tech Stack
 
 ### 🔧 Backend Development  
 - **Languages:** Java (Core & Advanced), Python, C++  
