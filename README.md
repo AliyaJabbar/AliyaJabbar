@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/aliya-jabbar/">
     <img src="https://img.shields.io/badge/LinkedIn-Aliya%20Jabbar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:aliyajabbar49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
