@@ -15,7 +15,7 @@
 
 ---
 
-<h1 align="center">Hi there 👋 I'm Aliya Jabbar</h1>
+<h1 align="center">Hi there  👋 I'm Aliya Jabbar</h1>
 
 <h3 align="center">🌱 Aspiring Data Analyst | Passionate Learner | Creative Thinker</h3>
 
@@ -54,14 +54,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyajabbar&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyajabbar&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
 
 ### 🌟 Featured Projects
 
