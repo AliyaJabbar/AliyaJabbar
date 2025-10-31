@@ -56,12 +56,6 @@
 
 
 
-### 🌟 Featured Projects
-
-- 🔹 [UPI Transaction Analysis Dashboard](https://github.com/aliyajabbar/upi-dashboard)
-- 🔹 [Resume Screening Power BI Project](https://github.com/aliyajabbar/resume-screening-dashboard)
-- 🔹 [HR Analytics Dashboard](https://github.com/aliyajabbar/hr-analytics-dashboard)
-
 ---
 
 ### ☕ Let's Connect!
