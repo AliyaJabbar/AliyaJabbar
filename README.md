@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="coding-gif"/>
-</div>
+  <h1>Hi there 👋 I'm Aliya Jabbar</h1>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  </p>
+  <h3>📊 Aspiring Data Analyst | Machine Learning Enthusiast | Creative Thinker</h3>
 
----
-
-<div align="center">
   <a href="https://www.linkedin.com/in/aliya-jabbar/">
     <img src="https://img.shields.io/badge/LinkedIn-Aliya%20Jabbar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,53 +16,50 @@
 
 ---
 
-<h1 align="center">Hi there  👋 I'm Aliya Jabbar</h1>
-
-<h3 align="center">🌱 Aspiring Data Analyst | Passionate Learner | Creative Thinker</h3>
-
----
-
 ### 👩‍💻 About Me
 
-- ✨ Creating bugs since **2020** (and learning from them!)
-- 📚 Currently learning: **Data Analysis**, **Machine Learning**, and **Java for interviews**
-- 💡 Goals:
-  - Master real-world **Data Analysis**
-  - Build impactful **projects**
-  - Improve **problem-solving** and **coding** skills
-- 🎥 Fun Fact: I love learning from **YouTube** more than traditional classes!
+- ✨ **Experience:** Solving puzzles and creating bugs since **2020**.
+- 📚 **Currently Learning:** Deep diving into **Data Analysis** and **Machine Learning** pipelines.
+- 💡 **Interests:** Bridging the gap between raw data and actionable insights.
+- 🎥 **Fun Fact:** I love learning from **YouTube** more than traditional classes!
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Data Analytics Toolkit
 
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Analysis** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Visualization** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Development** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+
+---
+
+### ⭐ Featured Projects
+*Here are some of the data projects I'm proud of:*
+
+* **[Project Name 1](https://github.com/YOUR_USERNAME/repo-link)** - *Analysis of X using Power BI & Python.*
+* **[Project Name 2](https://github.com/YOUR_USERNAME/repo-link)** - *Automated Data Cleaning script in Excel/VBA.*
+
+---
+
+### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical" />
 </div>
 
----
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### ☕ Let's Connect!
+- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/aliya-jabbar/) or Email!
+- ⚡ Fun fact: I believe **data tells a story** if you listen closely enough.
 
-If you're passionate about **data**, **tech**, or just want to say hi —  
-📬 [Reach out on LinkedIn](https://www.linkedin.com/in/aliya-jabbar/) or send an email!
-
----
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update-ReadMe/assets/astro_walking_on_planets.gif" width="300" />
+</div>
