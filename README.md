@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="coding-gif"/>
   <h1>Hi there 👋 I'm Aliya Jabbar</h1>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Aliya Jabbar&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=AliyaJabbar&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
   </p>
   <h3>📊 Aspiring Data Analyst | Machine Learning Enthusiast | Creative Thinker</h3>
 
@@ -39,19 +39,19 @@
 ### ⭐ Featured Projects
 *Here are some of the data projects I'm proud of:*
 
-* **[Project Name 1](https://github.com/YOUR_USERNAME/repo-link)** - *Analysis of X using Power BI & Python.*
-* **[Project Name 2](https://github.com/YOUR_USERNAME/repo-link)** - *Automated Data Cleaning script in Excel/VBA.*
+* **[Data Analysis Portfolio](https://github.com/AliyaJabbar)** - *A collection of my work in Python & SQL.*
+* **[ML Project](https://github.com/AliyaJabbar)** - *Brief description of your machine learning work.*
 
 ---
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliyaJabbar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyaJabbar&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliyaJabbar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliyaJabbar&layout=compact&langs_count=7&theme=radical" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyaJabbar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyaJabbar&theme=radical" alt="Aliya's Streak" />
 </p>
 
 ---
