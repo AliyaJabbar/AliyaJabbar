@@ -1,63 +1,78 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="coding-gif"/>
-  <h1>Hi there 👋 I'm Aliya Jabbar</h1>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" height="180" alt="girl coding gif"/>
+
+  <h1>Hi 👋 I'm Aliya Jabbar</h1>
+
   <p>
-    <img src="https://komarev.com/ghpvc/?username=AliyaJabbar&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=AliyaJabbar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </p>
+
   <h3>📊 Aspiring Data Analyst | Machine Learning Enthusiast | Creative Thinker</h3>
 
   <a href="https://www.linkedin.com/in/aliya-jabbar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Aliya%20Jabbar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aliyajabbar49@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- ✨ **Experience:** Solving puzzles and creating bugs since **2020**.
-- 📚 **Currently Learning:** Deep diving into **Data Analysis** and **Machine Learning** pipelines.
-- 💡 **Interests:** Bridging the gap between raw data and actionable insights.
-- 🎥 **Fun Fact:** I love learning from **YouTube** more than traditional classes!
+I’m a Computer Science postgraduate with a growing focus on **data analysis and machine learning**.  
+I enjoy working with data end-to-end — from cleaning and exploration to visualization and insight generation.
 
----
-
-### 🛠 Data Analytics Toolkit
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Analysis** | ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Visualization** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Development** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+- ✨ **Experience:** Hands-on problem solving through academic and independent projects since 2020  
+- 📚 **Currently Learning:** Data Analysis workflows and Machine Learning fundamentals  
+- 💡 **Interests:** Turning raw data into clear, actionable insights  
+- 🎥 **Learning Style:** Project-driven learning using documentation and online resources  
 
 ---
 
-### ⭐ Featured Projects
-* **[Data Analysis Portfolio](https://github.com/AliyaJabbar)** - A collection of my work in Python & SQL.
-* **[ML Project](https://github.com/AliyaJabbar)** - Insights and predictive modeling using Scikit-Learn.
+## 🛠 Data Analytics Toolkit
+
+| Category | Tools |
+|--------|------|
+| **Analysis** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Development Tools** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-### 📊 GitHub Analytics
+## ⭐ Featured Projects
+
+- **📊 Data Analysis Portfolio**  
+  Python & SQL projects covering data cleaning, exploratory data analysis, and reporting  
+
+- **🤖 Machine Learning Projects**  
+  Projects exploring preprocessing, model training, and evaluation  
+
+*(Projects are continuously updated as part of my learning journey.)*
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliyaJabbar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Aliya's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyaJabbar&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliyaJabbar&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyaJabbar&layout=compact&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyaJabbar&theme=radical" alt="Aliya's Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyaJabbar&theme=radical"/>
+</p>
 
 ---
 
-### ☕ Let's Connect!
-- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/aliya-jabbar/) or via Email!
-- ⚡ Fun fact: I believe **data tells a story** if you listen closely enough.
+## ☕ Let’s Connect
+
+- 💼 Open to **Data Analyst / Junior Analyst / Internship** opportunities  
+- 📫 Reach out via **LinkedIn or Email**
+- ⚡ Belief: *Good data always tells a story when analyzed thoughtfully.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update-ReadMe/assets/astro_walking_on_planets.gif" width="300" />
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="280"/>
 </div>
