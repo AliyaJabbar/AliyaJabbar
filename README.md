@@ -1,5 +1,6 @@
 <div align="center">
- <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="180" alt="female developer coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="woman working on laptop"/>
+
 
 
   <h1>Hi 👋 I'm Aliya Jabbar</h1>
