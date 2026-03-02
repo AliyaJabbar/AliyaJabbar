@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=AliyaJabbar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </p>
 
-  <h3>📊 Aspiring Data Analyst | Machine Learning Enthusiast | Creative Thinker</h3>
+  <h3>📊 Data Analyst | Machine Learning Enthusiast | Creative Thinker</h3>
 
   <a href="https://www.linkedin.com/in/aliya-jabbar/">
     <img src="https://img.shields.io/badge/LinkedIn-Aliya%20Jabbar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
